@@ -1,15 +1,13 @@
-html{
+html {
     font-family: 'Poppins', sans-serif;
-    
+
 }
 
 h1 {
     margin-left: 10px;
 }
 
-h3 {
-    
-}
+h3 {}
 
 p {
     font-size: 18px;
@@ -41,10 +39,12 @@ a:active {
     color: gray;
     text-decoration: none;
 }
-h1{
+
+h1 {
     font-size: 40px;
 }
-h2{
+
+h2 {
     margin-left: 50px;
     font-size: 2em;
 }
@@ -166,14 +166,17 @@ h2{
 .margintopheader1 {
     margin-top: 70px;
 }
+
 .margintopheader2 {
     margin-top: 480px;
 }
-.margintopheader3{
+
+.margintopheader3 {
     margin-top: 670px;
 }
+
 .margintop {
-    margin-top: 400px;
+    margin-top: 110px;
 }
 
 .margintop1 {
@@ -189,6 +192,7 @@ h2{
     margin-left: 35px;
     margin-top: 530px;
 }
+
 .margintop4 {
     margin-left: 35px;
     margin-top: 710px;
@@ -203,6 +207,7 @@ h2{
     display: inline-block;
     float: left;
 }
+
 .underlinetitle {
     text-decoration: underline;
     font-size: 22px;
@@ -221,15 +226,16 @@ h2{
 
 #floated {
     float: left;
-    width: 800px;
+    width: 850px;
 }
 
 #floated2 {
     float: left;
     width: 800px;
 }
-#parabel{
+
+#funktion {
     position: absolute;
-    width: 400px;
-    margin-left: 900px;
+    width: 450px;
+    margin-left: 850px;
 }
