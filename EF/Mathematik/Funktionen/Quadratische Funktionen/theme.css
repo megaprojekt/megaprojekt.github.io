@@ -65,6 +65,7 @@ h2{
     color: #f1f1f1;
     margin-left: -0.8em;
     margin-right: -0.8em;
+    z-index: 1;
 }
 
 .id {
