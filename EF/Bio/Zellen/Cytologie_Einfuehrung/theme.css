@@ -254,4 +254,17 @@ h2 {
     body{
         font-size:30px;
     }
+    .margintopheader {
+        margin-top: 0px;
+    }
+    .margintopheader1 {
+        margin-top: 240px;
+    }
+    .margintop {
+        margin-top: 320px;
+    }
+
+    .margintop1 {
+        margin-top: 550px;
+    }    
 }
